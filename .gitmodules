@@ -1,0 +1,6 @@
+[submodule "models"]
+	path = models
+	url = https://github.com/emnh/rts-models
+[submodule "models-dinosaurs"]
+	path = models-dinosaurs
+	url = https://github.com/emnh/rts-models-dinosaurs
